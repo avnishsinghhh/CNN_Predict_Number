@@ -1,1 +1,1 @@
-# CNN Predict Number on MNIST Dataset
+# CNN - Predict Number on MNIST Dataset
